@@ -1,0 +1,2 @@
+
+This basic calculator is designed for practice purposes and offers four essential functionalities: addition, subtraction, multiplication, and division. It ensures accuracy in calculations and includes an error prompt if attempting to divide by zero. I trust you'll find it valuable for your needs.
